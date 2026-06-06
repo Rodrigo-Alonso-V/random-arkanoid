@@ -5,7 +5,7 @@ Prototipo interactivo desarrollado de forma individual en **Godot Engine**. Este
 
 ## 🎮 Jugar Ahora
 Puedes probar el juego directamente en tu navegador o descargarlo para Windows en mi perfil de Itch.io:
-👉 [Enlace a tu proyecto en Itch.io](https://rovex2643.itch.io/)
+👉 https://rovex2643.itch.io/
 
 ## 🛠️ Características Técnicas y Mecánicas
 * **Físicas de Rebote:** Implementación de rebotes para determinar el ángulo de la pelota según el impacto con la paleta.
