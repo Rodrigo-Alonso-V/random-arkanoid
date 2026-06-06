@@ -1,4 +1,5 @@
 # Random Arkanoid 🕹️
+Aqui encontraras algunos scripts creados para este juego.
 
 Prototipo interactivo desarrollado de forma individual en **Godot Engine**. Este proyecto fue mi base fundamental para dominar la lógica del motor y el comportamiento de físicas antes de desarrollar *Panic Penguin*.
 
